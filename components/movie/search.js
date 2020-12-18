@@ -9,7 +9,7 @@ export default function SearchMoive() {
         <>
             <Row>
                 <Col span="12" offset={6}>
-                    <h1 style={{ textAlign: "center" }}> Tim kiem phim</h1>
+                    <h1 style={{ textAlign: "center" }}> Tim kiem phim yeu thisch </h1>
                 </Col>
             </Row>
             <Row>
